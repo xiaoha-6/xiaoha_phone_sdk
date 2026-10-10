@@ -1,0 +1,8 @@
+node_modules/
+*.map
+*.tgz
+.env*
+.local/
+/src/
+/tool/
+/scripts/
